@@ -4,7 +4,6 @@ Este é um aplicativo desenvolvido com React Native e Expo, que permite capturar
 
 ## Funcionalidades
 
-- Acessar a câmera do dispositivo para tirar fotos.
 - Alternar entre a câmera frontal e traseira.
 - Obter a localização atual do usuário.
 - Solicitar permissões necessárias para câmera e localização.
